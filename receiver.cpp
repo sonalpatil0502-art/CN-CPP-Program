@@ -30,3 +30,7 @@ int main()
 
     return 0;
 }
+
+
+/*Enter Stuffed Frame: 111110101111100
+Original Frame: 1111110111110*/

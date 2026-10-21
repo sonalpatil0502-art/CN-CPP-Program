@@ -33,3 +33,6 @@ int main()
 
     return 0;
 }
+
+/*Enter the binary data: 11111011111
+Bit Stuffed Data: 1111100111110*/
